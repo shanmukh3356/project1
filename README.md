@@ -1,4 +1,4 @@
-# Python project
+# Python project1
 # GitHub Collaborator List Script
 
 This Python script utilizes the GitHub API to list users with read access to a specified GitHub repository. It prompts the user for their GitHub username and Personal Access Token, ensuring secure authentication.
