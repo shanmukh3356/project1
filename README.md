@@ -2,6 +2,8 @@
 
 This Python script utilizes the GitHub API to list users with read access to a specified GitHub repository. It prompts the user for their GitHub username and Personal Access Token, ensuring secure authentication.
 
+If you have created your own organization on GitHub and own repositories within that organization, you can control access to those repositories by managing collaborators and their permissions. In your case, if you are the only owner, you have full administrative access to the repositories.
+
 ## Usage
 
 1. Clone the repository:
